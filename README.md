@@ -62,6 +62,7 @@ export default {
 </style>
 ```
 ![饼图](https://raw.githubusercontent.com/wupeiwen/vue-g2/develop/public/vue-g2-pie.gif "饼图-外部标签")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwupeiwen%2Fvue-g2.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwupeiwen%2Fvue-g2?ref=badge_shield)
 
 ## 在nuxt.js(ssr)中使用
 ------
@@ -158,3 +159,6 @@ export default {
 </html>
 ```
 ![雷达图](https://raw.githubusercontent.com/wupeiwen/vue-g2/develop/public/vue-g2-radar.png "雷达图")
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwupeiwen%2Fvue-g2.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwupeiwen%2Fvue-g2?ref=badge_large)
